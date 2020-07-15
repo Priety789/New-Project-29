@@ -84,6 +84,7 @@ function mouseReleased() {
     mouseDragged = null;
 }
 
+/*
 function keyPressed() {
     if (keyCode === 32) {
         Matter.Body.setPosition(polygon.body, { x: 100, y: 200 });
@@ -102,3 +103,4 @@ async function changeBackground() {
         background("darkblue");
     }
 }
+*/
