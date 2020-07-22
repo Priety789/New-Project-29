@@ -42,7 +42,7 @@ function setup() {
 
 
 function draw() {
-    changeBackground();
+    background(255);
 
     textSize(20);
     text("Score: " + score, 700, 40);
